@@ -2,4 +2,4 @@
 
 A quick script to plot apple's healthkit data acquired from apps linked to apple health
 
-![](./assets/BF.png)
+![](assets/BFP.png)
